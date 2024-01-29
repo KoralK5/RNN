@@ -11,3 +11,14 @@ class GRU:
 
     def backprop():
         # do stuff
+
+# one single GRU layer
+class LSTM:
+    def __init__(self, h_dim, h_new_dim, x_dim):
+        # initialize weights
+
+    def forwprop():
+        # do stuff
+
+    def backprop():
+        # do stuff
